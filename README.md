@@ -2,7 +2,7 @@
 
 **A simple, portable command-line file converter for Windows.**
 
-[⬇️ Download ConvertX Portable](https://github.com/amitpadhyart/ConvertX/releases/latest)
+[⬇️ Download ConvertX Portable](https://github.com/amitpadhyart/ConvertX/releases/latest/download/ConvertX-Portable.zip)
 
 ConvertX is a side project built to make file conversion simple from the command line. The goal is to provide a convenient tool for converting documents, spreadsheets, and images without having to open multiple applications manually.
 
